@@ -132,7 +132,7 @@ class EmpForm extends LitElement {
     return html`
       <div class="form-center">
         <form @submit="${this.handleSubmit}">
-          <h1>Employee Data Form</h1>
+          <h1>Employee Data </h1>
           <table>
             <tr>
               <td>
